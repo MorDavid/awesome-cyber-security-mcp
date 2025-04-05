@@ -14,6 +14,7 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 - [Google Tasks MCP](https://github.com/BurtTheCoder/gtasks-mcp) - Let AI handle your task management in Google Tasks.
 - [MCP Timeserver](https://github.com/SecretiveShell/MCP-timeserver) - A simple MCP server that exposes datetime information to agentic systems and chat REPLs.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs
+- [Everything Search MCP Server](https://github.com/mamertofabian/mcp-everything-search) - An MCP server that provides fast file searching capabilities across Windows, macOS, and Linux. On Windows, it uses the Everything SDK
 
 ### Reverse Engineering
 - [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP server for Ghidra allowing LLMs to autonomously reverse engineer applications.
