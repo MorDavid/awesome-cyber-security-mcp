@@ -27,6 +27,7 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 - [RoadRecon MCP](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP (Model Context Protocol) server provides AI assistants like Claude with access to your ROADRecon Azure AD data for security analysis.
 
 ### Passive Reconnaissance
+- [NetworksDB-MCP](https://github.com/MorDavid/NetworksDB-MCP) - Fast MCP integration for NetworksDB API - Query IP addresses, organizations, ASNs, and DNS records using natural language through Model Context Protocol
 - [Crunchbase MCP Server](https://github.com/Cyreslab-AI/crunchbase-mcp-server) - A Model Context Protocol (MCP) server that provides access to Crunchbase data for AI assistants.
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) - A Model Context Protocol (MCP) server for querying the VirusTotal API. 
 - [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) - A Model Context Protocol (MCP) server for querying the Shodan API and Shodan CVEDB.
