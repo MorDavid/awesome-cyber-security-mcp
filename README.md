@@ -36,6 +36,9 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - A Model Context Protocol (MCP) server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) -  Model Context Protocol (MCP) server for maigret, a powerful OSINT tool that collects user account information from various public sources.
 
+### Active Reconnaissance
+- [ExternalAttacker](https://github.com/MorDavid/ExternalAttacker-MCP) - A modular external attack surface mapping tool integrating ProjectDiscovery tools for automated reconnaissance and bug bounty workflows.
+
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing to this awesome list.
 
