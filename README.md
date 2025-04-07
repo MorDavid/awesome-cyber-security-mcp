@@ -26,6 +26,9 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 - [BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) - BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) Server to BloodHound.
 - [RoadRecon MCP](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP (Model Context Protocol) server provides AI assistants like Claude with access to your ROADRecon Azure AD data for security analysis.
 
+### Mobile Penetration Testing Tools
+- [Jadx MCP Plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - This project provides a Jadx plugin written in Java, which exposes the Jadx API over HTTP.
+
 ### Passive Reconnaissance
 - [NetworksDB-MCP](https://github.com/MorDavid/NetworksDB-MCP) - Fast MCP integration for NetworksDB API - Query IP addresses, organizations, ASNs, and DNS records using natural language through Model Context Protocol
 - [Crunchbase MCP Server](https://github.com/Cyreslab-AI/crunchbase-mcp-server) - A Model Context Protocol (MCP) server that provides access to Crunchbase data for AI assistants.
