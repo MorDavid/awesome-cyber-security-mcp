@@ -20,6 +20,7 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 ### Reverse Engineering
 - [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP server for Ghidra allowing LLMs to autonomously reverse engineer applications.
 - [IDA-Pro-MCP](https://github.com/mrexodia/ida-pro-mcp) - Simple MCP Server to allow vibe reversing in IDA Pro.
+- [binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp) - The MCP (Model Context Protocol) Server for Binary Ninja.
 
 ### Security Tools
 - [Burp Suite MCP](https://github.com/PortSwigger/mcp-server) - Web security testing with MCP integration.
