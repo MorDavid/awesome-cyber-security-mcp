@@ -35,6 +35,7 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 - [Crunchbase MCP Server](https://github.com/Cyreslab-AI/crunchbase-mcp-server) - A Model Context Protocol (MCP) server that provides access to Crunchbase data for AI assistants.
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) - A Model Context Protocol (MCP) server for querying the VirusTotal API. 
 - [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) - A Model Context Protocol (MCP) server for querying the Shodan API and Shodan CVEDB.
+- [AlienVault OTX MCP](https://github.com/mrwadams/otx-mcp) - A Model Context Protocol (MCP) server for AlienVault OTX (Open Threat Exchange) that provides a comprehensive interface to the OTX API.
 - [Zoomeye MCP](https://github.com/zoomeye-ai/mcp_zoomeye) - ​The ZoomEye MCP Server is a Model Context Protocol (MCP) server that enables Large Language Models (LLMs) to retrieve network asset information by querying ZoomEye using dorks and other search parameters. 
 - [ADEO CTI MCP Server](https://github.com/ADEOSec/mcp-shodan) - A Model Context Protocol (MCP) server that provides access to both Shodan and VirusTotal APIs for comprehensive security analysis and threat intelligence.
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - A Model Context Protocol (MCP) server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
