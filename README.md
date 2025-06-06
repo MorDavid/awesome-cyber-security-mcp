@@ -26,6 +26,7 @@ Think of MCP as a universal translator between AI and your tools. It's an open p
 - [Burp Suite MCP](https://github.com/PortSwigger/mcp-server) - Web security testing with MCP integration.
 - [BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) - BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) Server to BloodHound.
 - [RoadRecon MCP](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP (Model Context Protocol) server provides AI assistants like Claude with access to your ROADRecon Azure AD data for security analysis.
+- [Hashcat-MCP](https://github.com/MorDavid/hashcat-mcp) - MCP wrapper for Hashcat – automate hash cracking with natural language.
 
 ### Mobile Penetration Testing Tools
 - [Jadx MCP Plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - This project provides a Jadx plugin written in Java, which exposes the Jadx API over HTTP.
