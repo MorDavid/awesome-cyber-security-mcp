@@ -33,6 +33,7 @@ It allows AI models to safely communicate with and control your local security t
 
 ### 🧬 Reverse Engineering
 - [Ghidra MCP](https://github.com/LaurieWired/GhidraMCP) – Ghidra integration for autonomous reverse engineering.
+- [Ghidra MCP Alternative](https://github.com/Bamimore-Tomi/ghidra_mcp) – Another MCP server for Ghidra with binary analysis capabilities.
 - [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) – LLM-controlled reversing in IDA Pro.
 - [Binary Ninja MCP](https://github.com/MCPPhalanx/binaryninja-mcp) – Binary Ninja plugin for AI-driven RE workflows.
 
@@ -43,6 +44,8 @@ It allows AI models to safely communicate with and control your local security t
 - [BloodHound MCP AI](https://github.com/MorDavid/BloodHound-MCP-AI) – AD attack path analysis with natural language.
 - [RoadRecon MCP](https://github.com/atomicchonk/roadrecon_mcp_server) – Azure AD enumeration via Claude/GPT.
 - [Hashcat MCP](https://github.com/MorDavid/hashcat-mcp) – Natural language-driven hash cracking.
+- [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
+- [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 
 ---
 
@@ -70,8 +73,7 @@ It allows AI models to safely communicate with and control your local security t
 ---
 
 ### 🏢 Enterprise, Cloud & Threat Intelligence MCP Servers
-- [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) – Secure your edge, APIs, and web apps using Cloudflare’s WAF and services.
-- [PortSwigger MCP Server](https://github.com/PortSwigger/mcp-server) – AI-powered integration with Burp Suite for application security testing.
+- [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) – Secure your edge, APIs, and web apps using Cloudflare's WAF and services.
 - [AKTO MCP Server](https://www.akto.io/mcp) – Automate API discovery and security testing through LLMs.
 - [Check Point Quantum MCP Server](https://github.com/CheckPointSW/mcp-servers) – AI-accessible Check Point firewall and threat management.
 - [Google Security Operations MCP](https://github.com/google/mcp-security) – Chronicle & Mandiant integration for threat detection and incident response.
@@ -79,6 +81,22 @@ It allows AI models to safely communicate with and control your local security t
 
 ---
 
+## 🛠️ Agentic AI Frameworks
+
+### 🤖 Multi-Agent Platforms
+- [Microsoft AutoGen](https://github.com/microsoft/autogen) – Framework for orchestrating multi-agent systems in cybersecurity.
+- [CrewAI](https://github.com/crewAIInc/crewAI) – Open-source framework for orchestrating teams of AI agents.
+- [LangChain](https://github.com/langchain-ai/langchain) – Modular framework for building LLM-powered agentic workflows.
+- [LangGraph](https://github.com/langchain-ai/langgraph) – Graph-based extension for advanced multi-agent workflows.
+- [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) – Context-aware agentic AI framework for security operations.
+- [Agno](https://github.com/agno-agi/agno) – Lightweight, high-performance library for building agents.
+
+### 🛡️ Security-Focused Tools
+- [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) – Open-source Bug Bounty-ready AI with hierarchical agentic patterns.
+- [AgentFence](https://github.com/agentfence/agentfence) – Platform for testing AI agent security vulnerabilities.
+- [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
+- [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
+- [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
 ## 🤝 Contributing
 Want to add your MCP or improve this list?  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
