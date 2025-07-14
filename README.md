@@ -64,6 +64,7 @@ It allows AI models to safely communicate with and control your local security t
 - [ADEO CTI MCP](https://github.com/ADEOSec/mcp-shodan) – Shodan + VirusTotal threat analysis combo.
 - [DNStwist MCP](https://github.com/BurtTheCoder/mcp-dnstwist) – Detect phishing & typo domains.
 - [Maigret MCP](https://github.com/BurtTheCoder/mcp-maigret) – OSINT on usernames across platforms.
+- [ANNA's MCP](https://github.com/iosifache/annas-mcp) - An MCP server and CLI tool for searching and downloading documents from Anna's Archive.
 
 ---
 
