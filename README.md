@@ -34,6 +34,7 @@ It allows AI models to safely communicate with and control your local security t
 ### 🧬 Reverse Engineering
 - [Ghidra MCP](https://github.com/LaurieWired/GhidraMCP) – Ghidra integration for autonomous reverse engineering.
 - [Ghidra MCP Alternative](https://github.com/Bamimore-Tomi/ghidra_mcp) – Another MCP server for Ghidra with binary analysis capabilities.
+- [WinDBG EXT MCP](https://github.com/NadavLor/windbg-ext-mcp) - WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabling real-time, AI assisted kernel debugging. Write prompts in your AI coding assistant and receive instant, context-aware analysis and insights from your live kernel debugging session.
 - [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) – LLM-controlled reversing in IDA Pro.
 - [Binary Ninja MCP](https://github.com/MCPPhalanx/binaryninja-mcp) – Binary Ninja plugin for AI-driven RE workflows.
 
