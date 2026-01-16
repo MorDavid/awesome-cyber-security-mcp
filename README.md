@@ -47,6 +47,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Hashcat MCP](https://github.com/MorDavid/hashcat-mcp) – Natural language-driven hash cracking.
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
+- [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
 
 ---
 
