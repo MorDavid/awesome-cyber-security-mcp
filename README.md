@@ -42,6 +42,7 @@ It allows AI models to safely communicate with and control your local security t
 ---
 
 ### 🔐 Security Tools
+- [operant-mcp](https://github.com/operantlabs/operant-mcp) – Open-source MCP server with 51 security testing tools for pentesting, vulnerability scanning, and security auditing. MIT licensed.
 - [Burp Suite MCP](https://github.com/PortSwigger/mcp-server) – Web app security testing via Burp Suite and AI.
 - [BloodHound MCP AI](https://github.com/MorDavid/BloodHound-MCP-AI) – AD attack path analysis with natural language.
 - [RoadRecon MCP](https://github.com/atomicchonk/roadrecon_mcp_server) – Azure AD enumeration via Claude/GPT.
