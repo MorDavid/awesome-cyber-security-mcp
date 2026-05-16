@@ -98,6 +98,7 @@ It allows AI models to safely communicate with and control your local security t
 ### 🛡️ Security-Focused Tools
 - [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) – Open-source Bug Bounty-ready AI with hierarchical agentic patterns.
 - [AgentFence](https://github.com/agentfence/agentfence) – Platform for testing AI agent security vulnerabilities.
+- [APort](https://aport.io/) – Runtime policy and verification layer for AI agents and MCP-connected tools.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
