@@ -49,6 +49,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 - [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
+- [mcp-audit](https://github.com/adudley78/mcp-audit) – Open-source CLI scanner for MCP server configurations. Detects tool poisoning, credential leaks, supply chain risks, and multi-hop attack paths across all major MCP clients. Includes 89 SAST rules, pre-install package vetting, and fleet scanning. Apache 2.0.
 
 ---
 
