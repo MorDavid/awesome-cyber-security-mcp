@@ -107,6 +107,9 @@ Check out [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ---
 
+
+- [MCP Core Defense](https://github.com/amurlaniakea/mcp-core-defense) - A comprehensive 7-phase defense proxy and runtime supervisor for MCP clients. It mitigates prompt injections, filters filesystem operations via a robust sandbox, validates strict schema constraints, and prevents tool description poisoning. Licensed under AGPLv3.
+- [Agent Fixer Stage](https://github.com/amurlaniakea/agent-fixer-stage) - A multi-layered output sanitization engine that intercepts and neutralizes data leaks, malicious payloads, and behavioral hallucinations in multi-agent workflows.
 ## 🧾 License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)  
