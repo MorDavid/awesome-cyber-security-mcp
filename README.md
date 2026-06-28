@@ -82,6 +82,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Check Point Quantum MCP Server](https://github.com/CheckPointSW/mcp-servers) – AI-accessible Check Point firewall and threat management.
 - [Google Security Operations MCP](https://github.com/google/mcp-security) – Chronicle & Mandiant integration for threat detection and incident response.
 - [Elastic Security MCP Server](https://github.com/elastic/mcp-server-elasticsearch) – SIEM and threat hunting with Elastic via natural language.
+- [FilingFirehose MCP](https://filingfirehose.com/mcp) – Hosted SEC EDGAR MCP that surfaces public cybersecurity incidents from SEC 8-K Item 1.05 disclosures plus body-text-parsed cyber events buried in non-cyber filings. Useful for monitoring breach disclosures across US-listed companies.
 
 ---
 
