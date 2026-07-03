@@ -101,6 +101,7 @@ It allows AI models to safely communicate with and control your local security t
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 ## 🤝 Contributing
 Want to add your MCP or improve this list?  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
