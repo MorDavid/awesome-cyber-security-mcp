@@ -99,6 +99,7 @@ It allows AI models to safely communicate with and control your local security t
 - [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) – Open-source Bug Bounty-ready AI with hierarchical agentic patterns.
 - [AgentFence](https://github.com/agentfence/agentfence) – Platform for testing AI agent security vulnerabilities.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) – Open-source autonomous AI penetration testing platform and MCP host that orchestrates 80+ offensive tools with per-technology sub-agents.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
 ## 🤝 Contributing
