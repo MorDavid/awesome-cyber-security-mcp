@@ -49,6 +49,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 - [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
+- [quantakrypto MCP](https://github.com/quantakrypto/pqc-tools) – Scan code and dependencies for quantum-vulnerable RSA/ECDSA/ECDH crypto and plan post-quantum migration.
 
 ---
 
