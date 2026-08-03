@@ -42,7 +42,7 @@ It allows AI models to safely communicate with and control your local security t
 ---
 
 ### 🔐 Security Tools
-- [rqwstr](https://github.com/Kjopstad-IT/rqwstr-mcp) – AI-native HTTP security testing toolkit with 17 HTTP tools and low-level HTTP/1.1 and HTTP/2 control.
+- [rqwstr MCP](https://github.com/Kjopstad-IT/rqwstr-mcp) – AI-native HTTP security testing toolkit with 17 HTTP tools and low-level HTTP/1.1 and HTTP/2 control.
 - [Burp Suite MCP](https://github.com/PortSwigger/mcp-server) – Web app security testing via Burp Suite and AI.
 - [BloodHound MCP AI](https://github.com/MorDavid/BloodHound-MCP-AI) – AD attack path analysis with natural language.
 - [RoadRecon MCP](https://github.com/atomicchonk/roadrecon_mcp_server) – Azure AD enumeration via Claude/GPT.
