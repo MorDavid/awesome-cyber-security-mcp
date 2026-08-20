@@ -49,6 +49,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 - [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
+- [MandateGuard MCP](https://github.com/ezequiellich44-cmd/MandateGuard) – Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates with zero LLM in the decision path. Tamper-evident SHA-256 chained audit ledger; official MCP server on the Model Context Protocol Registry.
 
 ---
 
