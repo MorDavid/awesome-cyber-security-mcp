@@ -101,6 +101,7 @@ It allows AI models to safely communicate with and control your local security t
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
+- [AIShield](https://github.com/lm203688/aishield) – Agent-native security scanner for MCP servers, Agent Skills, and GPTs; aligns with OWASP MCP Top 10, 228 detection rules, zero third-party dependencies.
 ## 🤝 Contributing
 Want to add your MCP or improve this list?  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
