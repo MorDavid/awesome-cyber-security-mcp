@@ -99,6 +99,7 @@ It allows AI models to safely communicate with and control your local security t
 - [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) – Open-source Bug Bounty-ready AI with hierarchical agentic patterns.
 - [AgentFence](https://github.com/agentfence/agentfence) – Platform for testing AI agent security vulnerabilities.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
+- [http-detection-agent](https://github.com/ai-blueteam/http-detection-agent) – Capability-aware HTTP attack detection with a Rust CLI and a local MCP companion for Codex and Claude Code.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
 ## 🤝 Contributing
