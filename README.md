@@ -101,6 +101,7 @@ It allows AI models to safely communicate with and control your local security t
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 ## 🤝 Contributing
 Want to add your MCP or improve this list?  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
