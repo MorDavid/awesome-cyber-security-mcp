@@ -70,6 +70,7 @@ It allows AI models to safely communicate with and control your local security t
 - [ANNA's MCP](https://github.com/iosifache/annas-mcp) - An MCP server and CLI tool for searching and downloading documents from Anna's Archive.
 
 ---
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) – World company background check via remote MCP: registration, executives, courts and finances. Endpoint: https://statsnet.co/mcp
 
 ### 🛠️ Active Reconnaissance
 - [ExternalAttacker MCP](https://github.com/MorDavid/ExternalAttacker-MCP) – External attack surface mapping using ProjectDiscovery tools (subfinder, httpx, nuclei, etc.).
