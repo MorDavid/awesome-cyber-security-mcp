@@ -82,6 +82,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Check Point Quantum MCP Server](https://github.com/CheckPointSW/mcp-servers) – AI-accessible Check Point firewall and threat management.
 - [Google Security Operations MCP](https://github.com/google/mcp-security) – Chronicle & Mandiant integration for threat detection and incident response.
 - [Elastic Security MCP Server](https://github.com/elastic/mcp-server-elasticsearch) – SIEM and threat hunting with Elastic via natural language.
+- [ThreatCluster MCP](https://github.com/Jam0k/Threat-Intelligence-MCP) – Threat intelligence lookup: incident clusters, validated IOCs, CVE/KEV/EPSS status, ransomware leak-site victims. Hosted or npm.
 
 ---
 
