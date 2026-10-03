@@ -98,6 +98,7 @@ It allows AI models to safely communicate with and control your local security t
 ### 🛡️ Security-Focused Tools
 - [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) – Open-source Bug Bounty-ready AI with hierarchical agentic patterns.
 - [AgentFence](https://github.com/agentfence/agentfence) – Platform for testing AI agent security vulnerabilities.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) – Local-first runtime firewall for AI coding agents; intercepts shell, secrets, MCP config changes, and package installs before execution (Apache-2.0). Docs: https://hol.org/guard.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
 - [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
 - [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
