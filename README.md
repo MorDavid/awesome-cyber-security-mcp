@@ -32,12 +32,13 @@ It allows AI models to safely communicate with and control your local security t
 ---
 
 ### 🧬 Reverse Engineering
+- [Binary Ninja MCP](https://github.com/MCPPhalanx/binaryninja-mcp) – Binary Ninja plugin for AI-driven RE workflows.
 - [Ghidra MCP](https://github.com/LaurieWired/GhidraMCP) – Ghidra integration for autonomous reverse engineering.
 - [Ghidra MCP Alternative](https://github.com/Bamimore-Tomi/ghidra_mcp) – Another MCP server for Ghidra with binary analysis capabilities.
+- [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) – LLM-controlled reversing in IDA Pro.
+- [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) - Local CLI/MCP server for evidence-backed native, managed, and JavaScript/Electron analysis; deep native analysis requires separately installed Hopper, Ghidra, or IDA.
 - [WinDBG EXT MCP](https://github.com/NadavLor/windbg-ext-mcp) - WinDbg-ext-MCP bridges your favorite LLM client (like Cursor, Claude, or VS Code) with WinDbg, enabling real-time, AI assisted kernel debugging. Write prompts in your AI coding assistant and receive instant, context-aware analysis and insights from your live kernel debugging session.
 - [WinDBG MCP](https://github.com/svnscha/mcp-windbg) - A Model Context Protocol server that bridges AI models with WinDbg for crash dump analysis and remote debugging.
-- [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) – LLM-controlled reversing in IDA Pro.
-- [Binary Ninja MCP](https://github.com/MCPPhalanx/binaryninja-mcp) – Binary Ninja plugin for AI-driven RE workflows.
 
 ---
 
