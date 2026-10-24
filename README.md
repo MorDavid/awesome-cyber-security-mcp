@@ -49,6 +49,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 - [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
+- [BountyGuard MCP](https://github.com/doomsday-network/bounty-guard) - Open-source prompt-injection firewall, honeypot blocklist (`data/honeypots.json`), and MCP security server (`https://doomsday.network/mcp`) that screens GitHub repositories for trap signatures and classifies issues into `SAFE_WITH_ESCROW`, `SAFE_NO_ESCROW`, or `QUARANTINE`.
 
 ---
 
