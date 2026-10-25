@@ -49,6 +49,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 - [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ---
 
