@@ -28,6 +28,7 @@ It allows AI models to safely communicate with and control your local security t
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) – Full GitHub API access through MCP.
 - [Everything Search MCP](https://github.com/mamertofabian/mcp-everything-search) – Fast file search via MCP using Everything SDK.
 - [FastDomainCheck MCP](https://github.com/bingal/FastDomainCheck-MCP-Server) – Bulk domain availability checking.
+- [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp) – Remote MCP server that scrapes, cleans and matches product and price data from any website.
 
 ---
 
