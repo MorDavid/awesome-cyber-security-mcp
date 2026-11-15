@@ -28,6 +28,7 @@ It allows AI models to safely communicate with and control your local security t
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) – Full GitHub API access through MCP.
 - [Everything Search MCP](https://github.com/mamertofabian/mcp-everything-search) – Fast file search via MCP using Everything SDK.
 - [FastDomainCheck MCP](https://github.com/bingal/FastDomainCheck-MCP-Server) – Bulk domain availability checking.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) – Remote MCP server and live-music venue directory ([nostairsplease.com](https://nostairsplease.com/)) covering small stages across all 50 US states.
 
 ---
 
