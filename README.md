@@ -66,6 +66,7 @@ It allows AI models to safely communicate with and control your local security t
 - [ZoomEye MCP](https://github.com/zoomeye-ai/mcp_zoomeye) – Retrieve assets and dorks via ZoomEye API.
 - [ADEO CTI MCP](https://github.com/ADEOSec/mcp-shodan) – Shodan + VirusTotal threat analysis combo.
 - [DNStwist MCP](https://github.com/BurtTheCoder/mcp-dnstwist) – Detect phishing & typo domains.
+- [IPGeolocation.io MCP Server](https://github.com/IPGeolocation/ipgeolocation-io-mcp) - Investigate IPs from suspicious logins. The free tier includes IP geolocation, basic ASN data, time zones and currency. Paid plans add company and network details, abuse contacts, and VPN, proxy, Tor, bot, hosting and spam signals.
 - [Maigret MCP](https://github.com/BurtTheCoder/mcp-maigret) – OSINT on usernames across platforms.
 - [ANNA's MCP](https://github.com/iosifache/annas-mcp) - An MCP server and CLI tool for searching and downloading documents from Anna's Archive.
 
